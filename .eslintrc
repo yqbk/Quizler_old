@@ -1,0 +1,13 @@
+{
+  "parser": "babel-eslint",
+  "extends": "airbnb",
+  "rules": {
+    "indent": [ 2, 4 ],
+    "react/jsx-indent": [ 2, 4 ],
+    "react/jsx-filename-extension": 0,
+    "no-shadow": "off",
+    "max-len": [1, 140],
+    "arrow-body-style": "off",
+    "import/prefer-default-export": "off"
+  }
+}
