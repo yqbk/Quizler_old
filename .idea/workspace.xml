@@ -1,0 +1,1037 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6243e5d0-a741-4503-ae67-e8898ee10288" name="Default" comment="Cleanup + add .idea settings" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileColors">
+    <fileColor scope="Non-Project Files (Material Default)" color="415967" />
+    <fileColor scope="Non-Project Files (Material Darker)" color="474747" />
+    <fileColor scope="Non-Project Files (Material Lighter)" color="D2D4D5" />
+    <fileColor scope="Non-Project Files (Material Palenight)" color="4E5579" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="index.ios.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.ios.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="80">
+              <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#43#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="setup.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/setup.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="600">
+              <caret line="31" column="0" lean-forward="true" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="320">
+              <caret line="16" column="38" lean-forward="false" selection-start-line="16" selection-start-column="38" selection-end-line="16" selection-end-column="38" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".eslintrc" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.eslintrc">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="260">
+              <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.android.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.android.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="100">
+              <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#43#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>console.log</find>
+      <find>console.log(</find>
+      <find>console.log('</find>
+      <find>GroupExerciseInfo</find>
+      <find>console.log('te</find>
+      <find>c</find>
+      <find>con</find>
+      <find>const</find>
+      <find>const sty</find>
+      <find>const styl</find>
+      <find>_onLayout</find>
+      <find>input</find>
+      <find>st</find>
+      <find>styles.</find>
+      <find>styles.i</find>
+      <find>styles.input</find>
+      <find>tad</find>
+      <find>verifyLanguageKeys</find>
+      <find>upcomin</find>
+      <find>test</find>
+      <find>console</find>
+      <find>forgotPassword</find>
+      <find>today</find>
+      <find>selectAll</find>
+      <find>selectFi</find>
+      <find>workouts</find>
+      <find>forgot</find>
+      <find>username</find>
+      <find>username:</find>
+      <find>login</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>$(SRCROOT)/../../node_modules</replace>
+      <replace />
+      <replace>getHeartReference</replace>
+      <replace>favIcon</replace>
+      <replace>FavIcon</replace>
+      <replace>STAR</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/node_modules/lottie-react-native</dir>
+      <dir>$PROJECT_DIR$/node_modules/lottie-ios</dir>
+      <dir>$PROJECT_DIR$/android</dir>
+      <dir>$PROJECT_DIR$/node_modules/react-native</dir>
+      <dir>$PROJECT_DIR$</dir>
+      <dir>$PROJECT_DIR$/app/screens/profile</dir>
+      <dir>$PROJECT_DIR$/app/screens/group-exercise-info</dir>
+      <dir>$PROJECT_DIR$/app/screens/home</dir>
+      <dir>$PROJECT_DIR$/app/screens</dir>
+      <dir>$PROJECT_DIR$/app/screens/profile/your-training</dir>
+      <dir>$PROJECT_DIR$/app</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="fav-fix-8" />
+      </map>
+    </option>
+    <option name="RESET_MODE" value="HARD" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/app/screens/upcoming/upcoming-list-item/style.js" />
+        <option value="$PROJECT_DIR$/app/screens/upcoming/upcoming-list-item/UpcomingListItem.js" />
+        <option value="$PROJECT_DIR$/app/screens/group-exercise-info/titlebar/Titlebar.js" />
+        <option value="$PROJECT_DIR$/app/components/favourites-checkbox/FavIcon.js" />
+        <option value="$PROJECT_DIR$/app/screens/my-profile/style.js" />
+        <option value="$PROJECT_DIR$/app/components/header-medium/style.js" />
+        <option value="$PROJECT_DIR$/app/components/medium-header/MediumHeader.js" />
+        <option value="$PROJECT_DIR$/app/screens/profile/averages/Averages.js" />
+        <option value="$PROJECT_DIR$/app/components/medium-header/style.js" />
+        <option value="$PROJECT_DIR$/app/screens/home/most-trained/MostTrained.js" />
+        <option value="$PROJECT_DIR$/app/components/header/style.js" />
+        <option value="$PROJECT_DIR$/app/screens/home/most-trained/style.js" />
+        <option value="$PROJECT_DIR$/app/screens/home/try-something-new/TrySomethingNew.js" />
+        <option value="$PROJECT_DIR$/app/screens/profile/your-training/YourTraining.js" />
+        <option value="$PROJECT_DIR$/app/screens/profile/favourites/category-card/FavouriteCard.js" />
+        <option value="$PROJECT_DIR$/app/components/fade-in-image/FadeInImage.js" />
+        <option value="$PROJECT_DIR$/app/screens/profile/favourites/Favourites.js" />
+        <option value="$PROJECT_DIR$/app/screens/favourites/fav-item/FavItem.js" />
+        <option value="$PROJECT_DIR$/app/screens/favourites/fav-item/style.js" />
+        <option value="$PROJECT_DIR$/app/screens/home/try-something-new/card-scroller/style.js" />
+        <option value="$PROJECT_DIR$/app/screens/home/try-something-new/card-scroller/CardScroller.js" />
+        <option value="$PROJECT_DIR$/app/screens/profile/your-training/style.js" />
+        <option value="$PROJECT_DIR$/app/screens/home/Home.js" />
+        <option value="$PROJECT_DIR$/app/screens/home/try-something-new/style.js" />
+        <option value="$PROJECT_DIR$/app/screens/profile/averages/style.js" />
+        <option value="$PROJECT_DIR$/app/screens/profile/favourites/style.js" />
+        <option value="$PROJECT_DIR$/app/screens/profile/favourites/category-card/InfoCard.js" />
+        <option value="$PROJECT_DIR$/app/screens/home/browse-by-category/BrowseByCategory.js" />
+        <option value="$PROJECT_DIR$/app/screens/home/browse-by-category/style.js" />
+        <option value="$PROJECT_DIR$/app/screens/profile/favourites/category-card/CategoryCard.js" />
+        <option value="$PROJECT_DIR$/app/screens/profile/favourites/category-card/style.js" />
+        <option value="$PROJECT_DIR$/app/navigation/MainNavigator.js" />
+        <option value="$PROJECT_DIR$/app/screens/search/Search.js" />
+        <option value="$PROJECT_DIR$/app/components/notifications/error/Error.js" />
+        <option value="$PROJECT_DIR$/app/setup.js" />
+        <option value="$PROJECT_DIR$/app/components/notifications/error/style.js" />
+        <option value="$PROJECT_DIR$/app/components/notifications/index.js" />
+        <option value="$PROJECT_DIR$/app/screens/landing-page/LandingPage.js" />
+        <option value="$USER_HOME$/hex/app/scripts/index.js" />
+        <option value="$PROJECT_DIR$/app/components/input-field/style.js" />
+        <option value="$PROJECT_DIR$/app/screens/reset-password/style.js" />
+        <option value="$PROJECT_DIR$/app/components/input-field/InputField.js" />
+        <option value="$PROJECT_DIR$/app/screens/reset-password/ResetPassword.js" />
+        <option value="$PROJECT_DIR$/app/components/action-bar/style.js" />
+        <option value="$PROJECT_DIR$/app/screens/login/style.js" />
+        <option value="$PROJECT_DIR$/app/screens/login/Login.js" />
+        <option value="$PROJECT_DIR$/app/screens/favourites/styles.js" />
+        <option value="$PROJECT_DIR$/app/screens/favourites/Favourites.js" />
+        <option value="$PROJECT_DIR$/app/config/translations.js" />
+        <option value="$PROJECT_DIR$/app/utils/translationsValidator.js" />
+        <option value="$PROJECT_DIR$/app/boot/initTranslations.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
+    <package-json value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <annotation-enable>false</annotation-enable>
+    <other-services-enabled>true</other-services-enabled>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1105" />
+    <option name="y" value="-1080" />
+    <option name="width" value="1920" />
+    <option name="height" value="1080" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Quizler" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Quizler" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
+    <property name="FullScreen" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Font" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="$PROJECT_DIR$/node_modules/eslint" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.selected.package.standard" value="$PROJECT_DIR$/node_modules/eslint" />
+    <property name="JavaScriptPreferStrict" value="false" />
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/components/header-medium" />
+      <recent name="$PROJECT_DIR$/app/screens/favourites/fav-item" />
+      <recent name="$PROJECT_DIR$/app/screens/landing-page/img" />
+      <recent name="$PROJECT_DIR$/app/screens/profile/favourites" />
+      <recent name="$PROJECT_DIR$/app/components/favourite-icon" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/screens/upcoming/upcoming-list-item/img" />
+      <recent name="$PROJECT_DIR$/app/screens/landing-page/img" />
+      <recent name="$PROJECT_DIR$/app/components/heart-checkbox/img" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/android/app/src/main/java/com/healthfitnessnordic" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartTestRunConfigurationType" factoryName="Dart Test">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6243e5d0-a741-4503-ae67-e8898ee10288" name="Default" comment="" />
+      <created>1493366928370</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1493366928370</updated>
+      <workItem from="1493366929503" duration="1110000" />
+      <workItem from="1493369072130" duration="8167000" />
+      <workItem from="1493387559655" duration="2145000" />
+      <workItem from="1493739703237" duration="81000" />
+      <workItem from="1493886105960" duration="15901000" />
+      <workItem from="1493976928205" duration="742000" />
+      <workItem from="1494313963872" duration="23000" />
+      <workItem from="1494314002848" duration="4464000" />
+      <workItem from="1494329440071" duration="7421000" />
+      <workItem from="1494414910958" duration="26849000" />
+      <workItem from="1494780502122" duration="84000" />
+      <workItem from="1495003842213" duration="33511000" />
+      <workItem from="1495526140759" duration="50785000" />
+      <workItem from="1496139187560" duration="8027000" />
+      <workItem from="1496211585142" duration="50383000" />
+      <workItem from="1496731700924" duration="9756000" />
+      <workItem from="1496816471135" duration="22526000" />
+      <workItem from="1497334390797" duration="24000" />
+      <workItem from="1497334428814" duration="23559000" />
+      <workItem from="1497605147381" duration="10306000" />
+      <workItem from="1497855648568" duration="4223000" />
+      <workItem from="1497865555355" duration="834000" />
+      <workItem from="1497866463261" duration="20000" />
+      <workItem from="1497869374036" duration="9079000" />
+      <workItem from="1497883331097" duration="954000" />
+      <workItem from="1497957800026" duration="6283000" />
+      <workItem from="1498028283822" duration="11551000" />
+      <workItem from="1498049167252" duration="5798000" />
+      <workItem from="1498123165021" duration="123000" />
+    </task>
+    <task id="LOCAL-00006" summary="Add ScrollView with exercise images to Profile tab">
+      <created>1495553436310</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1495553436310</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Fix typo in saga + adjust styling">
+      <created>1495706173230</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1495706173230</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Display favorites images properly + refactoring">
+      <created>1495794410473</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1495794410473</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Add favourites state + implement empty favourites text view">
+      <created>1495796675137</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1495796675137</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Favourites refactoring">
+      <created>1495803090235</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1495803090235</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Change icon + further refactor of favorite component">
+      <created>1496313701992</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1496313701992</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Fix translations for favourites">
+      <created>1496319674126</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1496319674126</updated>
+    </task>
+    <task id="LOCAL-00013" summary="View instead of ScrollView">
+      <created>1496320880092</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1496320880092</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Fix translation bug">
+      <created>1496321099536</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1496321099536</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Adjust styling in Upcoming">
+      <created>1496325260845</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1496325260845</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Fix naming">
+      <created>1496325483159</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1496325483159</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Fix references">
+      <created>1496326782381</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1496326782381</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Extract FavItem component">
+      <created>1496328868945</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1496328868945</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Fix to Pawel's comments">
+      <created>1496329404143</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1496329404143</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Fix bug with onPush action + adjust bottom border in Titlebar + adjust styling in Favourites">
+      <created>1496392712198</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1496392712198</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Refactor toogleItem in Favourites">
+      <created>1496393029889</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1496393029889</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Adjust styling in Upcoming classes + show info about fully booked">
+      <created>1496395321490</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1496395321490</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Adjust styling in Upcoming classes + show info about fully booked">
+      <created>1496406264777</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1496406264777</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Extract logic outside render">
+      <created>1496411468494</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1496411468494</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Fix styling">
+      <created>1496416236960</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1496416236960</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Proper state handling in Favourites screen">
+      <created>1496918681732</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1496918681732</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Refactor using Header and MediumHeader components">
+      <created>1496996583969</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1496996583969</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Navigate to class onPress in profile">
+      <created>1497338267522</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1497338267522</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Fix bug in Android + adjust favourites&#10;&#10;Now star icon is displayed correctly on android phones">
+      <created>1497346523436</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1497346523436</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Refactor styling">
+      <created>1497352811563</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1497352811563</updated>
+    </task>
+    <task id="LOCAL-00031" summary="Remove unnecessary code">
+      <created>1497354981991</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1497354981991</updated>
+    </task>
+    <task id="LOCAL-00032" summary="Add border shadow">
+      <created>1497426315880</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1497426315880</updated>
+    </task>
+    <task id="LOCAL-00033" summary="Center infoCard text">
+      <created>1497433091339</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1497433091339</updated>
+    </task>
+    <task id="LOCAL-00034" summary="Refactor styling">
+      <created>1497433480668</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1497433480668</updated>
+    </task>
+    <task id="LOCAL-00035" summary="Fix try-something-new styling bug">
+      <created>1497434374660</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1497434374660</updated>
+    </task>
+    <task id="LOCAL-00036" summary="Add borderRadius to images">
+      <created>1497434891466</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1497434891466</updated>
+    </task>
+    <task id="LOCAL-00037" summary="Add props to InputField">
+      <created>1497443104278</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1497443104278</updated>
+    </task>
+    <task id="LOCAL-00038" summary="Reimplement Retreive Password screen">
+      <created>1497446715899</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1497446715899</updated>
+    </task>
+    <task id="LOCAL-00039" summary="Loosing focus when tapping outside an InputText">
+      <created>1497613145726</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1497613145726</updated>
+    </task>
+    <task id="LOCAL-00040" summary="Reverse unwanted changes">
+      <created>1497613281035</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1497613281035</updated>
+    </task>
+    <task id="LOCAL-00041" summary="Fix Notifications">
+      <created>1497614721343</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1497614721343</updated>
+    </task>
+    <task id="LOCAL-00042" summary="Fix Notifications + BackgroundVideo Android">
+      <created>1497619083408</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1497619083408</updated>
+    </task>
+    <task id="LOCAL-00043" summary="Fix Notifications + BackgroundVideo Android">
+      <created>1497619095739</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1497619095739</updated>
+    </task>
+    <task id="LOCAL-00044" summary="Export styles">
+      <created>1497619305887</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1497619305887</updated>
+    </task>
+    <task id="LOCAL-00045" summary="Fix styling favourites">
+      <created>1497869823186</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1497869823186</updated>
+    </task>
+    <task id="LOCAL-00046" summary="Wrap inputField in ScrollView">
+      <created>1497871043022</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1497871043022</updated>
+    </task>
+    <task id="LOCAL-00047" summary="Wrap login and reset in the ScrollView">
+      <created>1497876658343</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1497876658343</updated>
+    </task>
+    <task id="LOCAL-00048" summary="Iterate through all objects">
+      <created>1498030910405</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1498030910405</updated>
+    </task>
+    <task id="LOCAL-00049" summary="Detect all missing translations by specific key">
+      <created>1498034959884</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1498034959885</updated>
+    </task>
+    <task id="LOCAL-00050" summary="Refactor">
+      <created>1498035413179</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1498035413180</updated>
+    </task>
+    <task id="LOCAL-00051" summary="Refactor">
+      <created>1498035559847</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1498035559847</updated>
+    </task>
+    <task id="LOCAL-00052" summary="Move to FlatList with header">
+      <created>1498040706865</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1498040706866</updated>
+    </task>
+    <task id="LOCAL-00053" summary="Move validation functions to separate utils component">
+      <created>1498046414452</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1498046414452</updated>
+    </task>
+    <task id="LOCAL-00054" summary="Tons of refactoring!&#10;&#10;+ Add nice console styling ;)">
+      <created>1498054359629</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1498054359629</updated>
+    </task>
+    <option name="localTasksCounter" value="55" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="314947000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1105" y="-1080" width="1920" height="1080" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12427594" sideWeight="0.664465" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32913843" sideWeight="0.5" order="10" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25049505" sideWeight="0.4096893" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12427594" sideWeight="0.33553502" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25049505" sideWeight="0.5903107" order="9" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2894482" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32913843" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Refactor using Header and MediumHeader components" />
+    <MESSAGE value="Navigate to class onPress in profile" />
+    <MESSAGE value="Fix bug in Android + adjust favourites&#10;&#10;Now star icon is displayed correctly on android phones" />
+    <MESSAGE value="Remove unnecessary code" />
+    <MESSAGE value="Add border shadow" />
+    <MESSAGE value="Center infoCard text" />
+    <MESSAGE value="Refactor styling" />
+    <MESSAGE value="Fix try-something-new styling bug" />
+    <MESSAGE value="Add borderRadius to images" />
+    <MESSAGE value="Add props to InputField" />
+    <MESSAGE value="Reimplement Retreive Password screen" />
+    <MESSAGE value="Loosing focus when tapping outside an InputText" />
+    <MESSAGE value="Reverse unwanted changes" />
+    <MESSAGE value="Fix Notifications" />
+    <MESSAGE value="Fix Notifications + BackgroundVideo Android" />
+    <MESSAGE value="Export styles" />
+    <MESSAGE value="Fix styling favourites" />
+    <MESSAGE value="Wrap inputField in ScrollView" />
+    <MESSAGE value="Wrap login and reset in the ScrollView" />
+    <MESSAGE value="Iterate through all objects" />
+    <MESSAGE value="Detect all missing translations by specific key" />
+    <MESSAGE value="Refactor" />
+    <MESSAGE value="Move to FlatList with header" />
+    <MESSAGE value="Move validation functions to separate utils component" />
+    <MESSAGE value="Tons of refactoring!&#10;&#10;+ Add nice console styling ;)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Tons of refactoring!&#10;&#10;+ Add nice console styling ;)" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="9" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/screens/profile/feedback/Feedback.js" />
+    <entry file="file://$PROJECT_DIR$/app/screens/profile/feedback/style.js" />
+    <entry file="file://$PROJECT_DIR$/app/screens/profile/favourites/style.js" />
+    <entry file="file://$PROJECT_DIR$/app/components/fade-in-image/FadeInImage.js" />
+    <entry file="file://$PROJECT_DIR$/app/screens/home/try-something-new/style.js" />
+    <entry file="file://$PROJECT_DIR$/app/screens/home/try-something-new/TrySomethingNew.js" />
+    <entry file="file://$PROJECT_DIR$/app/screens/home/browse-by-category/style.js" />
+    <entry file="file://$PROJECT_DIR$/app/screens/profile/favourites/category-card/CategoryCard.js" />
+    <entry file="file://$PROJECT_DIR$/app/screens/profile/favourites/category-card/InfoCard.js" />
+    <entry file="file://$PROJECT_DIR$/app/screens/profile/favourites/category-card/style.js" />
+    <entry file="file://$PROJECT_DIR$/app/components/keyboard-avoiding-view-ios/KeyboardAvoidingViewIOS.js" />
+    <entry file="file://$PROJECT_DIR$/app/config/styles.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="24" column="23" lean-forward="false" selection-start-line="24" selection-start-column="23" selection-end-line="24" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/components/button/Button.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1800">
+          <caret line="93" column="6" lean-forward="false" selection-start-line="93" selection-start-column="6" selection-end-line="93" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/screens/group-exercise-info/style.js" />
+    <entry file="file://$PROJECT_DIR$/app/components/notifications/info/Info.js" />
+    <entry file="file://$PROJECT_DIR$/app/components/button/style.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="82" column="5" lean-forward="false" selection-start-line="82" selection-start-column="5" selection-end-line="82" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/screens/search/day-results/DayResults.js" />
+    <entry file="file://$PROJECT_DIR$/app/navigation/MainNavigator.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="134">
+          <caret line="8" column="73" lean-forward="false" selection-start-line="8" selection-start-column="73" selection-end-line="8" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/redux-modal/src/connectModal.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-875">
+          <caret line="10" column="24" lean-forward="false" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/sagas/booking.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="75" lean-forward="false" selection-start-line="24" selection-start-column="75" selection-end-line="24" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/screens/search/Search.js" />
+    <entry file="file://$PROJECT_DIR$/app/state/booking/actions.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="6" column="63" lean-forward="false" selection-start-line="6" selection-start-column="63" selection-end-line="6" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/components/notifications/error/Error.js" />
+    <entry file="file://$PROJECT_DIR$/app/navigation/style.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/components/notifications/index.js" />
+    <entry file="file://$PROJECT_DIR$/app/screens/landing-page/LandingPage.js" />
+    <entry file="file://$USER_HOME$/AppReactNative/app/screens/main/Main.js" />
+    <entry file="file://$USER_HOME$/questionator/app/navigation/MainNavigator.js" />
+    <entry file="file://$PROJECT_DIR$/app/screens/profile/favourites/Favourites.js" />
+    <entry file="file://$USER_HOME$/hex/app/scripts/index.js" />
+    <entry file="file://$PROJECT_DIR$/app/components/input-field/style.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="16" column="15" lean-forward="false" selection-start-line="16" selection-start-column="15" selection-end-line="16" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/components/input-field/InputField.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4400">
+          <caret line="223" column="32" lean-forward="false" selection-start-line="223" selection-start-column="32" selection-end-line="223" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/screens/reset-password/ResetPassword.js" />
+    <entry file="file://$PROJECT_DIR$/app/components/action-bar/style.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="5" column="24" lean-forward="false" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/components/notifications/error/style.js" />
+    <entry file="file://$PROJECT_DIR$/app/screens/login/style.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="27" column="3" lean-forward="false" selection-start-line="27" selection-start-column="3" selection-end-line="27" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/screens/login/Login.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="32" column="0" lean-forward="false" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/screens/reset-password/style.js" />
+    <entry file="file://$PROJECT_DIR$/app/components/action-bar/ActionBar.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/screens/favourites/Favourites.js" />
+    <entry file="file://$PROJECT_DIR$/app/screens/favourites/fav-item/FavItem.js" />
+    <entry file="file://$PROJECT_DIR$/app/screens/favourites/styles.js" />
+    <entry file="file://$PROJECT_DIR$/app/screens/home/browse-by-category/BrowseByCategory.js" />
+    <entry file="file://$PROJECT_DIR$/app/utils/translationsValidator.js" />
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="16" column="38" lean-forward="false" selection-start-line="16" selection-start-column="38" selection-end-line="16" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/boot/initTranslations.js" />
+    <entry file="file://$PROJECT_DIR$/app/config/translations.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-144">
+          <caret line="319" column="30" lean-forward="false" selection-start-line="319" selection-start-column="30" selection-end-line="319" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/screens/group-exercise-info/GroupExerciseInfo.js" />
+    <entry file="file://$PROJECT_DIR$/inspectionProfiles/Project_Default.xml" />
+    <entry file="file://$PROJECT_DIR$/.eslintrc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/setup.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="31" column="0" lean-forward="true" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
