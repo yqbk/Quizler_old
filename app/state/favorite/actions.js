@@ -1,0 +1,9 @@
+import { createAction } from 'redux-actions';
+
+export const INIT_GROUP_EXERCISE_TYPE_FAVORITES = 'FAVORITES/INIT_GROUP_EXERCISE_TYPE_FAVORITES';
+export const ADD_GROUP_EXERCISE_TYPE_TO_FAVORITES = 'FAVORITES/ADD_GROUP_EXERCISE_TYPE_TO_FAVORITES';
+export const REMOVE_GROUP_EXERCISE_TYPE_FROM_FAVORITES = 'FAVORITES/REMOVE_GROUP_EXERCISE_TYPE_FROM_FAVORITES';
+
+export const initGroupExerciseTypeFavorites = createAction(INIT_GROUP_EXERCISE_TYPE_FAVORITES)
+export const addGroupExerciseTypeToFavorites = createAction(ADD_GROUP_EXERCISE_TYPE_TO_FAVORITES);
+export const removeGroupExerciseTypeFromFavorites = createAction(REMOVE_GROUP_EXERCISE_TYPE_FROM_FAVORITES);
