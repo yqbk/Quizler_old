@@ -17,6 +17,7 @@
     "react-native": "0.45.1",
     "react-native-flip-card": "^3.4.1",
     "react-native-i18n": "^1.0.0",
+    "react-native-progress": "^3.4.0",
     "react-native-safari": "^2.1.4",
     "react-native-swipe-cards": "^0.1.0",
     "react-native-textinput-effects": "^0.3.0",

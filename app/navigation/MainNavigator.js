@@ -2,12 +2,12 @@ import React from 'react';
 import { View, Button } from 'react-native';
 import { connect } from 'react-redux';
 import { StackNavigator } from 'react-navigation';
+import { TabBarNavigator } from './tab-bar-navigator/TabBarNavigator';
 import { isLoggedIn, didSkipLogin } from './../selectors/auth';
 
 import Login from './../screens/login/Login';
 import Main from './../screens/main/Main';
 
-import { TabBarNavigator } from './tab-bar-navigator/TabBarNavigator';
 
 import { styles } from './style';
 

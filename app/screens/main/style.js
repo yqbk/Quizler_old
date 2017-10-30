@@ -1,4 +1,5 @@
 import { StyleSheet } from 'react-native';
+import { fontWeights, fontSizes, colors } from '../../config/styles';
 
 export default StyleSheet.create({
     contentContainer: {
@@ -46,9 +47,18 @@ export default StyleSheet.create({
         fontSize: 20,
         paddingTop: 10,
         paddingBottom: 10,
-        color: 'white',
-        fontWeight: 'bold',
+        color: 'black',
+        // fontWeight: 'bold',
     },
+
+    smallText: {
+        width: 200,
+        fontSize: 15,
+        paddingTop: 50,
+        paddingBottom: 10,
+        color: 'grey',
+    },
+
     noMoreCards: {
         flex: 1,
         justifyContent: 'center',
@@ -68,19 +78,46 @@ export default StyleSheet.create({
 
 
     face: {
-        backgroundColor: 'red',
+        // backgroundColor: 'red',
         flex: 1,
         justifyContent: 'center',
         alignItems: 'center',
-        borderColor: 'transparent',
+        borderColor: 'blue',
+        borderWidth: 3,
+        borderRadius: 3,
     },
 
 
     back: {
-        backgroundColor: 'blue',
+        // backgroundColor: 'blue',
         flex: 1,
         justifyContent: 'center',
         alignItems: 'center',
+        borderColor: 'red',
+        borderWidth: 3,
+        borderRadius: 3,
+    },
+
+
+    container: {
+        flex: 1,
+        backgroundColor: 'white',
+        alignItems: 'center',
+        justifyContent: 'center',
+        padding: 50,
+    },
+
+    header: {
+        fontSize: fontSizes.giga,
+        fontWeight: fontWeights.bold,
+    },
+
+    progressBar: {
+
+    },
+
+    progressBarText: {
+
     },
     //
     //
