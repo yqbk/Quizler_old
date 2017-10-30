@@ -1,95 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6243e5d0-a741-4503-ae67-e8898ee10288" name="Default" comment="Version 0.0.1">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/HockeySDK-iOS/HockeySDK.embeddedframework/HockeySDK.framework/HockeySDK" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/HockeySDK-iOS/HockeySDK.embeddedframework/HockeySDKResources.bundle/AppIconPlaceHolder.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/HockeySDK-iOS/HockeySDK.embeddedframework/HockeySDKResources.bundle/Arrow.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/HockeySDK-iOS/HockeySDK.embeddedframework/HockeySDKResources.bundle/Arrow@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/HockeySDK-iOS/HockeySDK.embeddedframework/HockeySDKResources.bundle/Arrow@3x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/HockeySDK-iOS/HockeySDK.embeddedframework/HockeySDKResources.bundle/Blur.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/HockeySDK-iOS/HockeySDK.embeddedframework/HockeySDKResources.bundle/Blur@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/HockeySDK-iOS/HockeySDK.embeddedframework/HockeySDKResources.bundle/Blur@3x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/HockeySDK-iOS/HockeySDK.embeddedframework/HockeySDKResources.bundle/Cancel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/HockeySDK-iOS/HockeySDK.embeddedframework/HockeySDKResources.bundle/Cancel@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/HockeySDK-iOS/HockeySDK.embeddedframework/HockeySDKResources.bundle/Cancel@3x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/HockeySDK-iOS/HockeySDK.embeddedframework/HockeySDKResources.bundle/FeedbackPlaceholder.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/HockeySDK-iOS/HockeySDK.embeddedframework/HockeySDKResources.bundle/IconGradient.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/HockeySDK-iOS/HockeySDK.embeddedframework/HockeySDKResources.bundle/IconGradient@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/HockeySDK-iOS/HockeySDK.embeddedframework/HockeySDKResources.bundle/Info.plist" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/HockeySDK-iOS/HockeySDK.embeddedframework/HockeySDKResources.bundle/Ok.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/HockeySDK-iOS/HockeySDK.embeddedframework/HockeySDKResources.bundle/Ok@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/HockeySDK-iOS/HockeySDK.embeddedframework/HockeySDKResources.bundle/Ok@3x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/HockeySDK-iOS/HockeySDK.embeddedframework/HockeySDKResources.bundle/Rectangle.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/HockeySDK-iOS/HockeySDK.embeddedframework/HockeySDKResources.bundle/Rectangle@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/HockeySDK-iOS/HockeySDK.embeddedframework/HockeySDKResources.bundle/Rectangle@3x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/HockeySDK-iOS/HockeySDK.embeddedframework/HockeySDKResources.bundle/authorize_denied.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/HockeySDK-iOS/HockeySDK.embeddedframework/HockeySDKResources.bundle/authorize_denied@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/HockeySDK-iOS/HockeySDK.embeddedframework/HockeySDKResources.bundle/authorize_denied@3x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/HockeySDK-iOS/HockeySDK.embeddedframework/HockeySDKResources.bundle/bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/HockeySDK-iOS/HockeySDK.embeddedframework/HockeySDKResources.bundle/buttonRoundedDelete.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/HockeySDK-iOS/HockeySDK.embeddedframework/HockeySDKResources.bundle/buttonRoundedDelete@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/HockeySDK-iOS/HockeySDK.embeddedframework/HockeySDKResources.bundle/buttonRoundedDeleteHighlighted.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/HockeySDK-iOS/HockeySDK.embeddedframework/HockeySDKResources.bundle/buttonRoundedDeleteHighlighted@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/HockeySDK-iOS/HockeySDK.embeddedframework/HockeySDKResources.bundle/buttonRoundedRegular.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/HockeySDK-iOS/HockeySDK.embeddedframework/HockeySDKResources.bundle/buttonRoundedRegular@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/HockeySDK-iOS/HockeySDK.embeddedframework/HockeySDKResources.bundle/buttonRoundedRegularHighlighted.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/HockeySDK-iOS/HockeySDK.embeddedframework/HockeySDKResources.bundle/buttonRoundedRegularHighlighted@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/HockeySDK-iOS/HockeySDK.embeddedframework/HockeySDKResources.bundle/de.lproj/HockeySDK.strings" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/HockeySDK-iOS/HockeySDK.embeddedframework/HockeySDKResources.bundle/en.lproj/HockeySDK.strings" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/HockeySDK-iOS/HockeySDK.embeddedframework/HockeySDKResources.bundle/es.lproj/HockeySDK.strings" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/HockeySDK-iOS/HockeySDK.embeddedframework/HockeySDKResources.bundle/fa.lproj/HockeySDK.strings" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/HockeySDK-iOS/HockeySDK.embeddedframework/HockeySDKResources.bundle/feedbackActivity.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/HockeySDK-iOS/HockeySDK.embeddedframework/HockeySDKResources.bundle/feedbackActivity@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/HockeySDK-iOS/HockeySDK.embeddedframework/HockeySDKResources.bundle/feedbackActivity@2x~ipad.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/HockeySDK-iOS/HockeySDK.embeddedframework/HockeySDKResources.bundle/feedbackActivity@3x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/HockeySDK-iOS/HockeySDK.embeddedframework/HockeySDKResources.bundle/feedbackActivity~ipad.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/HockeySDK-iOS/HockeySDK.embeddedframework/HockeySDKResources.bundle/fr.lproj/HockeySDK.strings" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/HockeySDK-iOS/HockeySDK.embeddedframework/HockeySDKResources.bundle/hr.lproj/HockeySDK.strings" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/HockeySDK-iOS/HockeySDK.embeddedframework/HockeySDKResources.bundle/hu.lproj/HockeySDK.strings" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/HockeySDK-iOS/HockeySDK.embeddedframework/HockeySDKResources.bundle/iconCamera.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/HockeySDK-iOS/HockeySDK.embeddedframework/HockeySDKResources.bundle/iconCamera@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/HockeySDK-iOS/HockeySDK.embeddedframework/HockeySDKResources.bundle/it.lproj/HockeySDK.strings" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/HockeySDK-iOS/HockeySDK.embeddedframework/HockeySDKResources.bundle/ja.lproj/HockeySDK.strings" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/HockeySDK-iOS/HockeySDK.embeddedframework/HockeySDKResources.bundle/nb.lproj/HockeySDK.strings" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/HockeySDK-iOS/HockeySDK.embeddedframework/HockeySDKResources.bundle/nl.lproj/HockeySDK.strings" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/HockeySDK-iOS/HockeySDK.embeddedframework/HockeySDKResources.bundle/pt-PT.lproj/HockeySDK.strings" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/HockeySDK-iOS/HockeySDK.embeddedframework/HockeySDKResources.bundle/pt.lproj/HockeySDK.strings" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/HockeySDK-iOS/HockeySDK.embeddedframework/HockeySDKResources.bundle/ru.lproj/HockeySDK.strings" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/HockeySDK-iOS/HockeySDK.embeddedframework/HockeySDKResources.bundle/zh-Hans.lproj/HockeySDK.strings" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/HockeySDK-iOS/HockeySDK.embeddedframework/HockeySDK.framework/Headers/BITAuthenticator.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/HockeySDK-iOS/HockeySDK.embeddedframework/HockeySDK.framework/Headers/BITCrashAttachment.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/HockeySDK-iOS/HockeySDK.embeddedframework/HockeySDK.framework/Headers/BITCrashDetails.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/HockeySDK-iOS/HockeySDK.embeddedframework/HockeySDK.framework/Headers/BITCrashManager.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/HockeySDK-iOS/HockeySDK.embeddedframework/HockeySDK.framework/Headers/BITCrashManagerDelegate.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/HockeySDK-iOS/HockeySDK.embeddedframework/HockeySDK.framework/Headers/BITCrashMetaData.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/HockeySDK-iOS/HockeySDK.embeddedframework/HockeySDK.framework/Headers/BITHockeyAttachment.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/HockeySDK-iOS/HockeySDK.embeddedframework/HockeySDK.framework/Headers/BITHockeyBaseManager.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/HockeySDK-iOS/HockeySDK.embeddedframework/HockeySDK.framework/Headers/BITHockeyBaseViewController.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/HockeySDK-iOS/HockeySDK.embeddedframework/HockeySDK.framework/Headers/BITHockeyManager.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/HockeySDK-iOS/HockeySDK.embeddedframework/HockeySDK.framework/Headers/BITHockeyManagerDelegate.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/HockeySDK-iOS/HockeySDK.embeddedframework/HockeySDK.framework/Headers/BITMetricsManager.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/HockeySDK-iOS/HockeySDK.embeddedframework/HockeySDK.framework/Headers/BITStoreUpdateManager.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/HockeySDK-iOS/HockeySDK.embeddedframework/HockeySDK.framework/Headers/BITStoreUpdateManagerDelegate.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/HockeySDK-iOS/HockeySDK.embeddedframework/HockeySDK.framework/Headers/BITUpdateManager.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/HockeySDK-iOS/HockeySDK.embeddedframework/HockeySDK.framework/Headers/BITUpdateManagerDelegate.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/HockeySDK-iOS/HockeySDK.embeddedframework/HockeySDK.framework/Headers/BITUpdateViewController.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/HockeySDK-iOS/HockeySDK.embeddedframework/HockeySDK.framework/Headers/HockeySDK.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/HockeySDK-iOS/HockeySDK.embeddedframework/HockeySDK.framework/Headers/HockeySDKEnums.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/HockeySDK-iOS/HockeySDK.embeddedframework/HockeySDK.framework/Headers/HockeySDKFeatureConfig.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/HockeySDK-iOS/HockeySDK.embeddedframework/HockeySDK.framework/Headers/HockeySDKNullability.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/HockeySDK-iOS/HockeySDK.embeddedframework/HockeySDK.framework/Modules/module.modulemap" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ios/Pods/Pods.xcodeproj/project.pbxproj" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.babelrc" afterPath="$PROJECT_DIR$/.babelrc" />
+    <list default="true" id="6243e5d0-a741-4503-ae67-e8898ee10288" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/navigation/MainNavigator.js" afterPath="$PROJECT_DIR$/app/navigation/MainNavigator.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/screens/main/Main.js" afterPath="$PROJECT_DIR$/app/screens/main/Main.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/screens/main/style.js" afterPath="$PROJECT_DIR$/app/screens/main/style.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/Quizler.xcodeproj/project.pbxproj" afterPath="$PROJECT_DIR$/ios/Quizler.xcodeproj/project.pbxproj" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/Quizler.xcodeproj/xcshareddata/xcschemes/Quizler.xcscheme" afterPath="$PROJECT_DIR$/ios/Quizler.xcodeproj/xcshareddata/xcschemes/Quizler.xcscheme" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/Quizler/AppDelegate.h" afterPath="$PROJECT_DIR$/ios/Quizler/AppDelegate.h" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ios/Quizler/AppDelegate.m" afterPath="$PROJECT_DIR$/ios/Quizler/AppDelegate.m" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -561,14 +474,7 @@
       <workItem from="1506949712940" duration="219000" />
       <workItem from="1508842892017" duration="8000" />
       <workItem from="1508842947090" duration="1504000" />
-      <workItem from="1509369569884" duration="4467000" />
-    </task>
-    <task id="LOCAL-00011" summary="Change icon + further refactor of favorite component">
-      <created>1496313701992</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1496313701992</updated>
+      <workItem from="1509369569884" duration="4487000" />
     </task>
     <task id="LOCAL-00012" summary="Fix translations for favourites">
       <created>1496319674126</created>
@@ -906,11 +812,18 @@
       <option name="project" value="LOCAL" />
       <updated>1498304301410</updated>
     </task>
-    <option name="localTasksCounter" value="60" />
+    <task id="LOCAL-00060" summary="Version 0.1">
+      <created>1509376248850</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1509376248850</updated>
+    </task>
+    <option name="localTasksCounter" value="61" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="336238000" />
+    <option name="totallyTimeSpent" value="336258000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-131" y="-1080" width="1920" height="1080" extended-state="0" />
@@ -979,7 +892,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Center infoCard text" />
     <MESSAGE value="Refactor styling" />
     <MESSAGE value="Fix try-something-new styling bug" />
     <MESSAGE value="Add borderRadius to images" />
@@ -1004,7 +916,8 @@
     <MESSAGE value="Get data from google docs" />
     <MESSAGE value="Working fetching data from google docs" />
     <MESSAGE value="Version 0.0.1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Version 0.0.1" />
+    <MESSAGE value="Version 0.1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Version 0.1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
